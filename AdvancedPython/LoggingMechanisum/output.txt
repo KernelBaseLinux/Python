@@ -1,0 +1,2 @@
+14/06/2021 20:44:31|INFO|Sample message|
+14/06/2021 20:44:31|ERROR|ZeroDivisionError: division by zero|'Traceback (most recent call last):\n  File "C:/Users/91777/OneDrive/Desktop/SAMIRDATA/Python/AdvancedPython/LoggingMechanisum/Log+Exception.py", line 30, in main\n    x = 1 / 0\nZeroDivisionError: division by zero'|
